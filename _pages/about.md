@@ -26,7 +26,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-My research focus on the origin of planetary system through the origin of their composition. To do so I trace the evolution of the composition of their building blocks. 
+My research focus on the origin of planets and their moons through the origin of their composition. I trace the evolution of the composition of their building blocks within protoplanetary disks and giant planets circumplanetary disks. I focused on the formation of Jupiter and its moons, for which there is a strong international exploration effort. The European Space Agency (ESA) and NASA launched the JUICE and Europa-Clipper probes which aim at exploring the icy Galilean Moons.  
+
+ My research is organised around two main axis: (i) evolution of protoplanetary disks composition and (ii) evolution of 
 
 
 I primarly use models and simulation to work on these questions, although I am currently moving toward integrating knowledge on observations to uses them a constrains in the models.
