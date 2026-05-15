@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-01'
+  last_updated: '2026-05-15'
 papers:
   NuUqPdsAAAAJ:0EnyYjriUFMC:
     citations: 0
@@ -10,7 +10,7 @@ papers:
     title: 'Moonraker: Enceladus multiple flyby mission'
     year: '2022'
   NuUqPdsAAAAJ:3fE2CSJIrl8C:
-    citations: 24
+    citations: 25
     title: Fresh view of the hot brown dwarf HD 984 B through high-resolution spectroscopy
     year: '2024'
   NuUqPdsAAAAJ:5nxA0vEk-isC:
@@ -58,7 +58,7 @@ papers:
     title: Evolution of the reservoirs of volatiles in the protosolar nebula
     year: '2023'
   NuUqPdsAAAAJ:UebtZRa9Y70C:
-    citations: 7
+    citations: 8
     title: "Impact of Jupiter\u2019s Heating and Self-shadowing on the Jovian Circumplanetary Disk Structure"
     year: '2025'
   NuUqPdsAAAAJ:W7OEmFMy1HYC:
@@ -74,7 +74,7 @@ papers:
     title: The role of phyllosilicates in shaping the Galilean moons' density gradient
     year: '2022'
   NuUqPdsAAAAJ:YsMSGLbcyi4C:
-    citations: 6
+    citations: 8
     title: Conditions for accretion favoring an unmelted Callisto and a differentiated Ganymede
     year: '2025'
   NuUqPdsAAAAJ:Zph67rFs4hoC:
@@ -86,11 +86,11 @@ papers:
     title: "Recipes for forming a carbon\u2013rich giant planet"
     year: '2024'
   NuUqPdsAAAAJ:d1gkVwhDpl0C:
-    citations: 22
+    citations: 23
     title: Early stages of Galilean moon formation in a water-depleted environment
     year: '2023'
   NuUqPdsAAAAJ:eQOLeE2rZwMC:
-    citations: 7
+    citations: 8
     title: "Understanding the formation of Saturn\u2019s regular moons in the context of giant planet moons formation scenarios"
     year: '2025'
   NuUqPdsAAAAJ:hqOjcs7Dif8C:
