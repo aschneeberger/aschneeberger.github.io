@@ -1,16 +1,16 @@
 metadata:
-  last_updated: '2026-05-15'
+  last_updated: '2026-06-22'
 papers:
   NuUqPdsAAAAJ:0EnyYjriUFMC:
     citations: 0
     title: Predictions for the Deep Compositions of Uranus and Neptune
     year: '2023'
   NuUqPdsAAAAJ:2osOgNQ5qMEC:
-    citations: 26
+    citations: 27
     title: 'Moonraker: Enceladus multiple flyby mission'
     year: '2022'
   NuUqPdsAAAAJ:3fE2CSJIrl8C:
-    citations: 25
+    citations: 27
     title: Fresh view of the hot brown dwarf HD 984 B through high-resolution spectroscopy
     year: '2024'
   NuUqPdsAAAAJ:5nxA0vEk-isC:
@@ -54,7 +54,7 @@ papers:
     title: Formation and Survival of Complex Organic Molecules in the Jovian Circumplanetary Disk
     year: '2026'
   NuUqPdsAAAAJ:UeHWp8X0CEIC:
-    citations: 25
+    citations: 26
     title: Evolution of the reservoirs of volatiles in the protosolar nebula
     year: '2023'
   NuUqPdsAAAAJ:UebtZRa9Y70C:
@@ -73,6 +73,10 @@ papers:
     citations: 0
     title: The role of phyllosilicates in shaping the Galilean moons' density gradient
     year: '2022'
+  NuUqPdsAAAAJ:YOwf2qJgpHMC:
+    citations: 0
+    title: 'Composition of the primordial matter in protoplanetary environments: implication for the origins of the galilean moons and giant planets'
+    year: '2024'
   NuUqPdsAAAAJ:YsMSGLbcyi4C:
     citations: 8
     title: Conditions for accretion favoring an unmelted Callisto and a differentiated Ganymede
@@ -86,7 +90,7 @@ papers:
     title: "Recipes for forming a carbon\u2013rich giant planet"
     year: '2024'
   NuUqPdsAAAAJ:d1gkVwhDpl0C:
-    citations: 23
+    citations: 24
     title: Early stages of Galilean moon formation in a water-depleted environment
     year: '2023'
   NuUqPdsAAAAJ:eQOLeE2rZwMC:
