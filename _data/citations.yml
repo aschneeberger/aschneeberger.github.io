@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-29'
+  last_updated: '2026-07-10'
 papers:
   NuUqPdsAAAAJ:0EnyYjriUFMC:
     citations: 0
@@ -50,7 +50,7 @@ papers:
     title: 'Elemental Composition of Uranus and Neptune: Insights from Building Blocks'
     year: '2024'
   NuUqPdsAAAAJ:ULOm3_A8WrAC:
-    citations: 0
+    citations: 1
     title: Formation and Survival of Complex Organic Molecules in the Jovian Circumplanetary Disk
     year: '2026'
   NuUqPdsAAAAJ:UeHWp8X0CEIC:
@@ -94,7 +94,7 @@ papers:
     title: Early stages of Galilean moon formation in a water-depleted environment
     year: '2023'
   NuUqPdsAAAAJ:eQOLeE2rZwMC:
-    citations: 8
+    citations: 9
     title: "Understanding the formation of Saturn\u2019s regular moons in the context of giant planet moons formation scenarios"
     year: '2025'
   NuUqPdsAAAAJ:hqOjcs7Dif8C:
