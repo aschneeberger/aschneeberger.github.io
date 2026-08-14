@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-27'
+  last_updated: '2026-08-14'
 papers:
   NuUqPdsAAAAJ:0EnyYjriUFMC:
     citations: 0
@@ -10,7 +10,7 @@ papers:
     title: 'Moonraker: Enceladus multiple flyby mission'
     year: '2022'
   NuUqPdsAAAAJ:3fE2CSJIrl8C:
-    citations: 28
+    citations: 27
     title: Fresh view of the hot brown dwarf HD 984 B through high-resolution spectroscopy
     year: '2024'
   NuUqPdsAAAAJ:5nxA0vEk-isC:
@@ -38,8 +38,8 @@ papers:
     title: Impact of Jupiter's heating and self-shadowing on the structure of its circumplanetary disk
     year: '2024'
   NuUqPdsAAAAJ:MXK_kJrjxJIC:
-    citations: 20
-    title: 'K-Stacker: an algorithm to hack the orbital parameters of planets hidden in high-contrast imaging-First applications to VLT/SPHERE multi-epoch observations'
+    citations: 21
+    title: 'K-Stacker: an algorithm to hack the orbital parameters of planets hidden in high-contrast imaging: First applications to VLT/SPHERE multi-epoch observations'
     year: '2020'
   NuUqPdsAAAAJ:Se3iqnhoufwC:
     citations: 0
@@ -59,7 +59,7 @@ papers:
     year: '2023'
   NuUqPdsAAAAJ:UebtZRa9Y70C:
     citations: 8
-    title: "Impact of Jupiter\u2019s Heating and Self-shadowing on the Jovian Circumplanetary Disk Structure"
+    title: "Impact of Jupiter\u2019s heating and self-shadowing on the Jovian circumplanetary disk structure"
     year: '2025'
   NuUqPdsAAAAJ:W7OEmFMy1HYC:
     citations: 3
@@ -78,7 +78,7 @@ papers:
     title: 'Composition of the primordial matter in protoplanetary environments: implication for the origins of the galilean moons and giant planets'
     year: '2024'
   NuUqPdsAAAAJ:YsMSGLbcyi4C:
-    citations: 8
+    citations: 9
     title: Conditions for accretion favoring an unmelted Callisto and a differentiated Ganymede
     year: '2025'
   NuUqPdsAAAAJ:Zph67rFs4hoC:
@@ -90,7 +90,7 @@ papers:
     title: "Recipes for forming a carbon\u2013rich giant planet"
     year: '2024'
   NuUqPdsAAAAJ:d1gkVwhDpl0C:
-    citations: 24
+    citations: 25
     title: Early stages of Galilean moon formation in a water-depleted environment
     year: '2023'
   NuUqPdsAAAAJ:eQOLeE2rZwMC:
